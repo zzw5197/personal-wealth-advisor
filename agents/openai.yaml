@@ -1,0 +1,8 @@
+interface:
+  display_name: "人生投资理财助手"
+  short_description: "结合人生阶段、现金流与资产质量，做长期理财决策与风险复盘"
+  brand_color: "#176B87"
+  default_prompt: "使用 $personal-wealth-advisor，先了解我的人生阶段、现金流和风险承受力，再分析这个投资或财务选择。"
+
+policy:
+  allow_implicit_invocation: true
